@@ -1,0 +1,43 @@
+{
+  "auctions": [
+   {
+       id: 1,
+       itemId: 1,
+       currentBid: 20,
+       bitIncrement: 4,
+       startDate: Date.now(),
+       endDate: (Date.now() + 17),
+       winning: true,
+       loyaltyitem: ITEM
+   },
+   {
+       id: 2,
+       itemId: 1,
+       currentBid: 20,
+       bitIncrement: 1,
+       startDate: Date.now(),
+       endDate: (Date.now() + 17),
+       winning: true,
+       loyaltyitem: ITEM
+   },
+   {
+       id: 3,
+       itemId: 1,
+       currentBid: 20,
+       bitIncrement: 1,
+       startDate: Date.now(),
+       endDate: (Date.now() + 17),
+       winning: true,
+       loyaltyitem: ITEM
+   },
+   {
+       id: 4,
+       itemId: 1,
+       currentBid: 20,
+       bitIncrement: 1,
+       startDate: Date.now(),
+       endDate: (Date.now() + 17),
+       winning: true,
+       loyaltyitem: ITEM
+   }
+];}
