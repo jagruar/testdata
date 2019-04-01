@@ -5,8 +5,8 @@
        itemId: 1,
        currentBid: 20,
        bitIncrement: 4,
-       startDate: 2018-04-01,
-       endDate: 2018-04-06,
+       startDate: '2018-04-01',
+       endDate: '2018-04-06',
        winning: true,
        loyaltyItem: {
          id: 1,
@@ -20,8 +20,8 @@
        itemId: 1,
        currentBid: 20,
        bitIncrement: 1,
-       startDate: 2018-04-01,
-       endDate: 2018-04-06,
+       startDate: '2018-04-01',
+       endDate: '2018-04-06',
        winning: true,
        loyaltyItem: {
          id: 2,
@@ -35,8 +35,8 @@
        itemId: 1,
        currentBid: 20,
        bitIncrement: 1,
-       startDate: 2018-04-01,
-       endDate: 2018-04-06,
+       startDate: '2018-04-01',
+       endDate: '2018-04-06',
        winning: true,
        loyaltyItem: {
          id: 3,
@@ -50,8 +50,8 @@
        itemId: 1,
        currentBid: 20,
        bitIncrement: 1,
-       startDate: 2018-04-01,
-       endDate: 2018-04-06,
+       startDate: '2018-04-01',
+       endDate: '2018-04-06',
        winning: true,
        loyaltyItem: {
          id: 4,
