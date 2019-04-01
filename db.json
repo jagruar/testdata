@@ -11,7 +11,7 @@
        "loyaltyItem": {
          "id": 1,
          "name": "foo",
-         "description": "bar",
+         "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Id provident ratione distinctio obcaecati? Laborum eius molestias vel neque consequatur! Suscipit mollitia blanditiis rem dolore voluptas aut dolor, accusantium quae officiis.",
          "imageUrl": "https://picsum.photos/351"
        }
    },
@@ -26,7 +26,7 @@
        "loyaltyItem": {
          "id": 1,
          "name": "foo",
-         "description": "bar",
+         "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Id provident ratione distinctio obcaecati? Laborum eius molestias vel neque consequatur! Suscipit mollitia blanditiis rem dolore voluptas aut dolor, accusantium quae officiis.",
          "imageUrl": "https://picsum.photos/352"
        }
    },
@@ -41,7 +41,7 @@
        "loyaltyItem": {
          "id": 1,
          "name": "foo",
-         "description": "bar",
+         "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Id provident ratione distinctio obcaecati? Laborum eius molestias vel neque consequatur! Suscipit mollitia blanditiis rem dolore voluptas aut dolor, accusantium quae officiis.",
          "imageUrl": "https://picsum.photos/353"
        }
    },
@@ -56,7 +56,7 @@
        "loyaltyItem": {
          "id": 1,
          "name": "foo",
-         "description": "bar",
+         "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Id provident ratione distinctio obcaecati? Laborum eius molestias vel neque consequatur! Suscipit mollitia blanditiis rem dolore voluptas aut dolor, accusantium quae officiis.",
          "imageUrl": "https://picsum.photos/354"
        }
    }]
