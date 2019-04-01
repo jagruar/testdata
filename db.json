@@ -5,14 +5,14 @@
        "itemId": 1,
        "currentBid": 20,
        "bitIncrement": 4,
-       "startDate": '2018-04-01',
-       "endDate": '2018-04-06',
+       "startDate": "2018-04-01",
+       "endDate": "2018-04-06",
        "winning": true,
        "loyaltyItem": {
          "id": 1,
-         "name": 'foo',
-         "description": 'bar',
-         "imageUrl": 'https://picsum.photos/351'
+         "name": "foo",
+         "description": "bar",
+         "imageUrl": "https://picsum.photos/351"
        }
    },
    {
@@ -20,14 +20,14 @@
        "itemId": 1,
        "currentBid": 20,
        "bitIncrement": 4,
-       "startDate": '2018-04-01',
-       "endDate": '2018-04-06',
+       "startDate": "2018-04-01",
+       "endDate": "2018-04-06",
        "winning": true,
        "loyaltyItem": {
          "id": 1,
-         "name": 'foo',
-         "description": 'bar',
-         "imageUrl": 'https://picsum.photos/351'
+         "name": "foo",
+         "description": "bar",
+         "imageUrl": "https://picsum.photos/352"
        }
    },
    {
@@ -35,14 +35,14 @@
        "itemId": 1,
        "currentBid": 20,
        "bitIncrement": 4,
-       "startDate": '2018-04-01',
-       "endDate": '2018-04-06',
+       "startDate": "2018-04-01",
+       "endDate": "2018-04-06",
        "winning": true,
        "loyaltyItem": {
          "id": 1,
-         "name": 'foo',
-         "description": 'bar',
-         "imageUrl": 'https://picsum.photos/351'
+         "name": "foo",
+         "description": "bar",
+         "imageUrl": "https://picsum.photos/353"
        }
    },
    {
@@ -50,14 +50,14 @@
        "itemId": 1,
        "currentBid": 20,
        "bitIncrement": 4,
-       "startDate": '2018-04-01',
-       "endDate": '2018-04-06',
+       "startDate": "2018-04-01",
+       "endDate": "2018-04-06",
        "winning": true,
        "loyaltyItem": {
          "id": 1,
-         "name": 'foo',
-         "description": 'bar',
-         "imageUrl": 'https://picsum.photos/351'
+         "name": "foo",
+         "description": "bar",
+         "imageUrl": "https://picsum.photos/354"
        }
    }]
 }
