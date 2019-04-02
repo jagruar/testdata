@@ -21,9 +21,9 @@
        },
        "loyaltyItem": {
          "id": 1,
-         "name": "foo",
-         "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Id provident ratione distinctio obcaecati? Laborum eius molestias vel neque consequatur! Suscipit mollitia blanditiis rem dolore voluptas aut dolor, accusantium quae officiis.",
-         "imageUrl": "https://picsum.photos/351"
+         "name": "Child",
+         "description": "A small child of undisclosed origin.",
+         "imageUrl": "https://zodml.org/sites/default/files/styles/gallery_image_830x450/adaptive-image/public/bilingual_.jpg?itok=4rnTT-HZ"
        }
    },
    {
